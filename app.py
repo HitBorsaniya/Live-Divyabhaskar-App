@@ -455,6 +455,7 @@ with st.sidebar:
         "🏠  Dashboard",
         "🔍  Predict Category",
         # "🤖  Model Insights"
+        #
     ], label_visibility="collapsed")
 
     st.markdown("<hr style='border-color:#334155; margin:16px 0;'>", unsafe_allow_html=True)
