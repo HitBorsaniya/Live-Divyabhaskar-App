@@ -443,30 +443,6 @@ def predict(title):
 # ── Sidebar ──────────────────────────────────────────────────
 with st.sidebar:
     st.markdown("""
-    <hr style='border-color:#334155; margin:16px 0;'>
-<div style='background:#0f172a; border:1px solid #334155; border-radius:12px; padding:16px; margin-top:8px;'>
-    <div style='font-size:0.7rem; color:#64748b; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:8px;'>
-        Developed by
-    </div>
-    <div style='font-size:1rem; font-weight:700; color:#0ea5e9;'>Hit Borsaniya</div>
-    <div style='font-size:0.75rem; color:#64748b; margin-top:2px;'>Python Developer @ XByte</div>
-    <div style='font-size:0.75rem; color:#64748b;'>MSc IT — Shreyarth University</div>
-    <hr style='border-color:#334155; margin:10px 0;'>
-    <div style='display:flex; gap:8px; flex-wrap:wrap;'>
-        <span style='background:#0ea5e920; color:#38bdf8; border:1px solid #0ea5e940;
-                     border-radius:20px; padding:2px 10px; font-size:0.7rem;'>🐍 Python</span>
-        <span style='background:#22c55e20; color:#22c55e; border:1px solid #22c55e40;
-                     border-radius:20px; padding:2px 10px; font-size:0.7rem;'>🤖 ML</span>
-        <span style='background:#f59e0b20; color:#f59e0b; border:1px solid #f59e0b40;
-                     border-radius:20px; padding:2px 10px; font-size:0.7rem;'>📊 NLP</span>
-        <span style='background:#ec4899200; color:#ec4899; border:1px solid #ec489940;
-                     border-radius:20px; padding:2px 10px; font-size:0.7rem;'>🕷️ Scraping</span>
-    </div>
-    <div style='margin-top:10px; font-size:0.7rem; color:#475569; text-align:center;'>
-        © 2026 Hit Borsaniya · All rights reserved
-    </div>
-</div>
-    
     <div style='text-align:center; padding:16px 0 8px 0;'>
         <div style='font-size:2.5rem;'>📰</div>
         <div style='font-size:1.1rem; font-weight:700; color:#f1f5f9;'>Divya Bhaskar</div>
